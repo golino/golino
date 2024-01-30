@@ -1,7 +1,7 @@
 ## Welcome  to my __GitHub__ profile page.
 My name is Pedro __Golino__, 
- - 🌎 I'm from Brazil
- - 🧑‍💻 Work as ♾️ __DevOps__ Engineer at Philips
+ - 🌎 I'm from Brazil ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png)
+ - 🧑‍💻 I work as ♾️ __DevOps__ Engineer at Philips
 
 <!--
 **golino/golino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
