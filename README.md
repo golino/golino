@@ -6,7 +6,7 @@ My name is Pedro __Golino__,
  - 👷‍♂️ Software Developer from 2008 to 2014 with Microsoft Stack (C#, .Net, MSSQL) ...
  - ♾️ Start DevOps journey in 2014 ...
  - 🧑‍💻 I work as ♾️ __DevOps__ Engineer at [Philips](https://www.philips.com)
- - Currentntly I'm working with GitHub, GitHub :octocat: Actions, AWS (VPC, IAM, ECR, ECS, EKS), Terraform, Kubernetes (EKS), Helm Charts, Crossplane, Shell Script, Java/Gradle, Python, Node
+ - Currentntly I'm working with GitHub, GitHub :octocat: Actions, AWS, Terraform, Kubernetes (AWS EKS), Helm Charts, Crossplane, Shell Script, Java/Gradle, Python, Node
 
 <!--
 **golino/golino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
