@@ -5,8 +5,9 @@ My name is Pedro __Golino__,
  - 👨‍💼 Internal Software Developer from 2006 to 2008 with Microsoft Stack (C#, .Net, MSSQL) ...
  - 👷‍♂️ Software Developer from 2008 to 2014 with Microsoft Stack (C#, .Net, MSSQL) ...
  - ♾️ Start DevOps journey in 2014 ...
- - 🧑‍💻 I work as ♾️ __DevOps__ Engineer at [Philips](https://www.philips.com)
- - Currentntly I'm working with GitHub, GitHub :octocat: Actions, AWS, Terraform, Kubernetes (AWS EKS), Helm Charts, Crossplane, Shell Script, Java/Gradle, Python, Node
+ - 🧾Experience with: C#, .Net Framewok, .Net Core, MSSQL Server, SSRS, SSIS, Azure DevOps (Boards, Pipelines, Repos, Artifacts), GitHub Actions, Jenkins, Windows Server, Linux, PowerShell, Shell Script, Gradle, NPM, SonarQube, CyBeats, GHAS, AWS (ECR, ECS, EC2, S3, IAM, Secrets Manager, VPC,  KMS, Route 53), Dorcker, Terraform, Grafana, Prometheus, ELK.
+ - 🧑‍💻 I work as ♾️ __DevOps__ Engineer at [Philips](https://www.philips.com) 
+ - Currentntly I'm working with GitHub, GitHub :octocat: Actions, Hyper-V, Nutanix, PowerShell, CyBeats, SonarQube, Shell Script, .Net, C#, MSSQL, Azure DevOps
 
 <!--
 **golino/golino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
